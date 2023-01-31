@@ -1,4 +1,4 @@
-# COSE341_Operating_System
+# COSE222_Computer_Architecture
 ## Summary
 COSE222: This course covers the computer organization details, mainly focusing on CPU internal and memory hierarchy (cache, memory and storage)
 
